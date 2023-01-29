@@ -19,5 +19,5 @@ print(f(2343))
 # 243<=2343   true d=6
 # 729<=2343   true d=7
 # 2187<=2343  true d=8
-# 6561<=2343  false     return value of d
+# 6561<=2343  false     return the value of d
 # previously value of d was 8 so the answer if f(2343) is 8
