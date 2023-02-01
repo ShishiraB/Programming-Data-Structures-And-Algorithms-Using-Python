@@ -9,4 +9,4 @@ x[0] = x[0][1:3]                # Statement 8
 w[4][0] = 1000                  # Statement 9
 a = (x[4][1] == 4)              # Statement 10
 
-#Here statement 8 gives error bcz we cannot add int as subscript over string 
+# Here statement 8 gives error bcz we cannot add int as subscript over string 
