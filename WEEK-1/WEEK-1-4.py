@@ -6,4 +6,4 @@ def mys(m):
 
 print(mys(3))
 
-#for all non -ve ,non zero integer the function displays factorial of given number
+# for all non -ve ,non zero integer the function displays factorial of given number
