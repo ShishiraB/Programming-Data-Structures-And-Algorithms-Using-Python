@@ -5,4 +5,4 @@ def h(n):
            s = s+1
     return(s)
 
-print(h(53)-h(50))
+print(h(53)-h(52))
