@@ -1,19 +1,3 @@
-'''
-def rainaverage(l):
-    city_rain = {}
-    for city, rainfall in l:
-        if city in city_rain:
-            city_rain[city][0] += rainfall
-            city_rain[city][1] += 1
-        else:
-            city_rain[city] = [rainfall, 1]
-    result = []
-    for city, (total_rainfall, count) in sorted(city_rain.items()):
-        avg_rainfall = total_rainfall / count
-        result.append((city, avg_rainfall))
-    return result
-'''
-
 def flatten(l):
     result = []
     for item in l:                              # loop over each item in the input list
